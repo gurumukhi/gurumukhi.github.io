@@ -1,0 +1,24 @@
+
+<body bgcolor=#ecFFdd>
+ <center style="position:fixed;top:20%;right:20%;font-family:Eras ITC;font-size:20px;color:teal;">
+  <a style="color:teal;" target="_blank" href="http://gurumukhi.github.io/vr-ram">A-Frame exploration [VR]</a>
+ </center>
+ 
+ <center style="position:fixed;top:40%;right:60%;font-family:Eras ITC;font-size:20px;color:teal;">
+  <a style="color:teal;" target="_blank" href="http://gurumukhi.github.io/vr-office">A-Frame office tour [VR]</a>
+ </center>
+ 
+ <center style="position:fixed;top:60%;right:40%;font-family:Eras ITC;font-size:20px;color:teal;">
+  <a style="color:teal;" target="_blank" href="http://gurumukhi.github.io/aframe-presentation-explorer">Slide deck</a>
+ </center>
+  
+  <center style="position:fixed;top:80%;right:20%;font-family:Eras ITC;font-size:20px;color:teal;">
+  <a style="color:teal;" target="_blank" href="https://aframe.io/docs/0.3.0/introduction/">A-Frame Docs</a>
+ </center>
+
+ <center style="position:fixed;top:90%;right:60%;font-family:Eras ITC;font-size:20px;color:teal;">
+  <a style="color:teal;" target="_blank" href="
+Http://shopifyvr.myshopify.com">Shopping site [VR] </a>
+ </center>
+
+</body>
